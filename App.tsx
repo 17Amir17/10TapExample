@@ -109,6 +109,6 @@ const exampleStyles = StyleSheet.create({
   },
 });
 
-const initialContent = `<p>This is a basic <a href="https://google.com">example</a> of using ColorKeyboard </p><img src="https://source.unsplash.com/8xznAGy4HcY/800x400" /><p></p>`;
+const initialContent = `<p>Thia basic <a href="https://google.com">example</a> of using ColorKeyboard </p><img src="https://source.unsplash.com/8xznAGy4HcY/800x400" /><p></p>`;
 
 export default App;

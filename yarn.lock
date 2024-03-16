@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@10play/tentap-editor@^0.4.52":
-  version "0.4.52"
-  resolved "https://registry.yarnpkg.com/@10play/tentap-editor/-/tentap-editor-0.4.52.tgz#eb9230152447c3654ceda927855c62912924147a"
-  integrity sha512-YNPqV3gxH3CrDEJ1r3RXFLZlD0fNzxaVTHhyWL3qv3eTte7iYFGDBu8P574uI8xTIiRDATeg7wHDuEdFwYrmzA==
+"@10play/tentap-editor@^0.4.53":
+  version "0.4.53"
+  resolved "https://registry.yarnpkg.com/@10play/tentap-editor/-/tentap-editor-0.4.53.tgz#98c4a41c83f152e1b871dce44f971915534f90e2"
+  integrity sha512-yMShJgu0Ou1MNwEcCaJDODMdArxnsjbGwV7pTveJSYQL5ZvVVVajidFNQ/VRmww1Uq9sA2TN6CYR5pcPmP1xmw==
   dependencies:
     "@tiptap/extension-blockquote" "^2.2.1"
     "@tiptap/extension-bold" "^2.2.1"
